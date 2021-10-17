@@ -1,0 +1,1 @@
+public record Customer(Guid id, string name, string lastName, string cpf);
